@@ -1,4 +1,4 @@
-data
+data/output
 spark-warehouse
 __pycache__
 .ipynb_checkpoints
